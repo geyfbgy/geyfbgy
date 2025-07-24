@@ -1,7 +1,7 @@
 
 <h2 align="left">Hey there, I'm Sreyashi 👋</h2>
 
-<p align="center">
+<p align="left">
   🎓 ECE Student at <strong>University of Engineering and Management, Kolkata</strong>  
   <br>🔐 Passionate about <strong>Cybersecurity</strong>  
   <br>💻 Python • C • Java • HTML/CSS (basics)
