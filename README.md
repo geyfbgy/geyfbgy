@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey there, I'm Sreyashi 👋</h2>
+<h2 align="left">Hey there, I'm Sreyashi 👋</h2>
 
 <p align="center">
   🎓 ECE Student at <strong>University of Engineering and Management, Kolkata</strong>  
