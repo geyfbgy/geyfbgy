@@ -4,7 +4,7 @@
 <p align="left">
   🎓 ECE Student at <strong>University of Engineering and Management, Kolkata</strong>  
   <br>🔐 Passionate about <strong>Cybersecurity</strong>  
-  <br>💻 Python • C • Java • HTML/CSS (basics)
+  <br>💻 Python • C • Java • HTML/CSS
   <br>📚 Always learning | 💡 Always curious
 </p>
 
@@ -12,8 +12,8 @@
 
 ### 🛠️ Tech Stack:
 - 🔒 Cybersecurity (Ethical Hacking basics)
-- 💻 Programming: `Python`, `C`, `Java`
-- 🌐 Frontend Basics: `HTML`, `CSS`
+- 💻 Programming: `Python`, `C`, `Java`,`Machine Learning`
+- 🌐 Frontend Basics: `HTML`, `CSS`,`Javascript`
 - 🧪 Tools: Git, GitHub, VS Code, Linux Terminal
 
 ---
@@ -34,5 +34,5 @@
 ---
 
 ### 🤝 Let's Connect!
-- 📧 Email: yourname@example.com (replace with your real one)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) (optional)
+- 📧 Email: chowdhurysreyashi4gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)
